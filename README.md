@@ -1,6 +1,8 @@
 # Commander-Table
 Free, unofficial Commander (EDH) playtest table for Windows and Mac: rules engine, bots and live commentary. Downloads are under Releases.
 
+**Play in your browser, no install needed:** https://play.commander-table.workers.dev
+
 ## Screenshots
 
 **Start screen**
